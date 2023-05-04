@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49086119487",
+    "project_id": "orvosidopont",
+    "storage_bucket": "orvosidopont.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49086119487:android:dfc463c99391d6436c828a",
+        "android_client_info": {
+          "package_name": "com.mobilalk.orvosidopont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49086119487-qt1kq2bo76f7aksd85eft7jho8jf0npm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobilalk.orvosidopont",
+            "certificate_hash": "919cfbf4c587ed84308ceeacc9ae3d767a0def42"
+          }
+        },
+        {
+          "client_id": "49086119487-55oq6a39cqc99l689a45u3c6ehbu2rbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaraCniIPqaCFiQGd-9aR0ucdoQch_Kf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49086119487-55oq6a39cqc99l689a45u3c6ehbu2rbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
